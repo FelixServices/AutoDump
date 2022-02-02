@@ -1,7 +1,7 @@
 from dhooks import Webhook, Embed
 
 embed = Embed(
-        description='**Attack has been detected for:**\n``VeteranVPN Canada OVH-GAME``\n\n**Server Provider:**\n``OVH Hosting``\n\n**Location:**\n``Canada, US``\n\n**Attack successfully mitigated the OVH has been withdrawn from the mitgation infrastructure**',
+        description='**Attack has ended for:**\n``VeteranVPN Canada OVH-GAME``\n\n**Server Provider:**\n``OVH Hosting``\n\n**Location:**\n``Canada, US``\n\n**Attack successfully mitigated the OVH has been withdrawn from the mitgation infrastructure**',
         color=0xfafcfa,
         timestamp='now'
         )
